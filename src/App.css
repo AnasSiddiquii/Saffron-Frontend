@@ -10,7 +10,7 @@
 .padding{padding-left: 10px;padding-right: 10px;}
 .meal{font-size: small; margin-left: -20%; margin-top: -3%;}
 .paid{font-size: small; margin-right: -10%; margin-top: -3%;}
-.delete{ font-size: xx-large; }
+.delete{ font-size: xx-large; } 
 
 /* navbar */
 .float{ position: sticky; top: 0; z-index: 9999; }
