@@ -1,0 +1,19 @@
+.left{ text-align: left; }
+.right{ text-align: right; }
+.center{ text-align: center; }
+
+/* add icon */
+.add{position: fixed; right: 25px; bottom: 30px;}
+
+/* payment */
+.history{padding-left: 25px;}
+.padding{padding-left: 10px;padding-right: 10px;}
+.meal{font-size: small; margin-left: -20%; margin-top: -3%;}
+.paid{font-size: small; margin-right: -10%; margin-top: -3%;}
+.delete{ font-size: xx-large; }
+
+/* navbar */
+.float{ position: sticky; top: 0; z-index: 9999; }
+.link{text-decoration: none;}
+.float-right{float: right;}
+.head{font-size: x-large;}
