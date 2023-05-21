@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Saffron-Frontend/static/css/main.2ad1521e.css",
-    "main.js": "/Saffron-Frontend/static/js/main.d14067ad.js",
+    "main.js": "/Saffron-Frontend/static/js/main.262dde11.js",
     "static/js/787.cda612ba.chunk.js": "/Saffron-Frontend/static/js/787.cda612ba.chunk.js",
     "index.html": "/Saffron-Frontend/index.html",
     "main.2ad1521e.css.map": "/Saffron-Frontend/static/css/main.2ad1521e.css.map",
-    "main.d14067ad.js.map": "/Saffron-Frontend/static/js/main.d14067ad.js.map",
+    "main.262dde11.js.map": "/Saffron-Frontend/static/js/main.262dde11.js.map",
     "787.cda612ba.chunk.js.map": "/Saffron-Frontend/static/js/787.cda612ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ad1521e.css",
-    "static/js/main.d14067ad.js"
+    "static/js/main.262dde11.js"
   ]
 }
