@@ -167,7 +167,7 @@ const AddPayment = () => {
             <div className='float bg-light pb-1'>
                 <div className='bg-primary navbar p-3'>
                     <NavLink to='/home' className='link text-light head'>The Saffron</NavLink>
-                    <a href={`https://new.iice.foundation/#/payments/${params.id}`} target='blank' className="link text-light float-right head"><MdIcons.MdAddAPhoto/></a>
+                    <a href={`https://anassiddiquii.github.io/Saffron-Frontend/#/payments/${params.id}`} target='blank' className="link text-light float-right head"><MdIcons.MdAddAPhoto/></a>
                     <NavLink to="/" className="link text-light float-right head" onClick={logout}><RiIcons.RiLogoutCircleLine/></NavLink>
                 </div>
                 <NavLink className='link' to={`/addOrder/${params.id}`}><h2 className='text-dark mt-4'>Add Payment for {customer}</h2></NavLink>
